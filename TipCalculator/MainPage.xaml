@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:TipCalculator" x:Class="TipCalculator.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Tip Amount" x:Name="Value" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        
+        <Label Text="Bill Amount" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Entry Keyboard="Numeric" x:Name="Bill"/>
+        <Label Text="Tip Percentage" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Entry Keyboard="Numeric" x:Name="Percent" />
+       
+        <Button Text="Calculate Tip"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Clicked="OnButtonClicked" />
+    </StackLayout>
+</ContentPage>
