@@ -1,0 +1,12 @@
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.deps.json
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.dll
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.pdb
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.csprojAssemblyReference.cache
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.AssemblyInfoInputs.cache
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.AssemblyInfo.cs
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.dll
+/Users/smcgovern2/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.pdb
